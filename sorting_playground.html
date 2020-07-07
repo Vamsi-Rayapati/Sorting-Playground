@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+#titlediv
+{
+	height:60px;
+	width:100%;
+	background-color:#4285F4;
+}
+#title
+{
+	color:#FFFFFF;
+	
+}
+#arrayinput
+{
+	border-color:#4285F4;
+	border-radius:10px;
+	border-style:solid;
+	
+}
+#createarray{
+	height:40px;
+	border-style:solid;
+	background-color:#4285F4;
+	border-radius:10px;
+	border-color:#4285F4;
+	color:#FFFFFF;
+}
+
+</style>
+</head>
+<body>
+
+<div id="titlediv">
+<h1 id="title"> Sorting Playground</h1>
+</div>
+
+<div style="padding-top:20px;padding-bottom:20px;background-color:#F1F1F1">
+<input type="text" style="height:30px;width:250px;"  id="arrayinput">
+<button id="createarray" onclick="createArray()">Create Array</button>
+<button id="createarray" onclick="insertionsort()">Insertion Sort</button>
+<button id="createarray" onclick="selectionsort()">Selection Sort</button>
+<button id="createarray" onclick="bubblesort()">Bubble Sort</button>
+<h3>(enter elements of array separated by ","[comma])</h3>
+</div>
+<center>
+<div id="arraycontainer" style="width:0px;background-color:green;position:relative;padding-top:100px">
+
+</div>
+</center>
+<script src="backend.js">
+</script> 
+</body>
+</html>
