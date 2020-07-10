@@ -1,9 +1,9 @@
 # Sorting-Playground
 ## Requirements
-1)HTML
-2)CSS
-3)Javascript
-4)Sorting Algorithms
+1)HTML</br>
+2)CSS</br>
+3)Javascript</br>
+4)Sorting Algorithms</br>
 ## Description
 It is a Web application that visualizes Sorting Algorithms and process of sorting clearly with annimations
 hence we can understand the algorithms easily
