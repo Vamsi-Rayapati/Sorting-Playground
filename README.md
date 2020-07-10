@@ -9,4 +9,4 @@
 2)It visualizes sorting algorithms with smooth animations </br>
 3)With the help of animations any one can easily understand the sorting procedure</br></br>
 
-[![Sorting](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Sorting](https://github.com/Vamsi-Rayapati/Sorting-Playground/blob/master/screen-capture%20(1).gif)](https://github.com/Vamsi-Rayapati/Sorting-Playground/blob/master/screen-capture%20(1).gif)
