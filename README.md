@@ -1,4 +1,5 @@
 # Sorting-Playground
+## Getting confused with sorting algorithms ?? lets start visualize sortings
 ## Requirements
 1)HTML</br>
 2)CSS</br>
